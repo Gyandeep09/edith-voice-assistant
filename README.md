@@ -2,8 +2,8 @@
 
 **Created by Gyandeep.**
 
-<img src="screenshot.png" alt="screenshot" width="400">
 
+<img src="screenshot.png" alt="screenshot" width="300" height="400">
 EDITH is a tiny desktop voice assistant. She listens, thinks and talks back in a cheerful British voice, in English, Hindi/Hinglish and Assamese. She runs fine on a low-end PC, because all the heavy work happens online on free tiers, and your computer only records audio, plays sound and draws the HUD.
 
 ```
