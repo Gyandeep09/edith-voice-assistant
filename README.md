@@ -3,12 +3,13 @@
 **Created by Gyandeep.**
 
 
-<img src="screenshot.png" alt="screenshot" width="300" height="400">
+<img src="screenshot.png" alt="screenshot" width="300" height="400" align="left" style="margin-right: 15px;">
 EDITH is a tiny desktop voice assistant. She listens, thinks and talks back in a cheerful British voice, in English, Hindi/Hinglish and Assamese. She runs fine on a low-end PC, because all the heavy work happens online on free tiers, and your computer only records audio, plays sound and draws the HUD.
 
 ```
 mic -> Groq Whisper (hears you) -> Groq Llama or Gemini (thinks) -> edge-tts (speaks)
 ```
+<br clear="left"/>
 
 ## Features
 
